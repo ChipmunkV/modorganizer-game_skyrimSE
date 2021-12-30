@@ -1,4 +1,4 @@
-#include "skyrimSEunmanagedmods.h"
+#include "skyrimseunmanagedmods.h"
 
 
 SkyrimSEUnmangedMods::SkyrimSEUnmangedMods(const GameGamebryo *game)

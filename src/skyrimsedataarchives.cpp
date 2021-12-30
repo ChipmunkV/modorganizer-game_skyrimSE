@@ -1,4 +1,4 @@
-#include "skyrimSEdataarchives.h"
+#include "skyrimsedataarchives.h"
 
 #include "iprofile.h"
 #include <utility.h>

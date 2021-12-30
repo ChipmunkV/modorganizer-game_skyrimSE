@@ -4,12 +4,12 @@
 <context>
     <name>GameSkyrimSE</name>
     <message>
-        <location filename="gameskyrimse.cpp" line="119"/>
+        <location filename="gameskyrimse.cpp" line="121"/>
         <source>Skyrim Special Edition Support Plugin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="gameskyrimse.cpp" line="129"/>
+        <location filename="gameskyrimse.cpp" line="131"/>
         <source>Adds support for the game Skyrim Special Edition.</source>
         <translation type="unfinished"></translation>
     </message>
